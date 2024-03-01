@@ -2,7 +2,7 @@
 This mod does one thing, it removes the accidental firearm discharge chance when holstering and unholstering the weapon.  
 While the mechanic is authentic to firearm handling, I find it boring as a game mechanic.
 There's no skill involved.  
-It's just a reminder that you didn't hold <Tab> long enough...
+It's just a reminder that you didn't hold \<Tab> long enough...
 
 As a side effect to how I disabled this, it also stops all accidental discharges.  
 
